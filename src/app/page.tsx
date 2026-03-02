@@ -43,7 +43,7 @@ const projects = [
     description: "A Python script that evaluates password strength based on complexity rules and entropy, providing real-time security feedback.",
     tech: ["Python", "Security"],
     icon: <Shield className="h-6 w-6" />,
-    link: "#",
+    link: "https://github.com/mhmdreda-nyx/Password-Evaluator",
   },
   {
     title: "Windows Server Security Checker",
