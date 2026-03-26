@@ -562,7 +562,7 @@ export default function Portfolio() {
       </section>
 
       <footer className="relative z-10 border-t border-white/5 py-8 text-center font-mono text-xs text-gray-600">
-        <p>© 2026 Mohamed Reda · <span className="text-[#00ff96]">mhr_exe</span></p>
+        <p>© 2026 Mohamed Reda · <span className="text-[#00ff96]">shervoida</span></p>
         <p className="mt-1 text-[10px] opacity-50">{"[ SYSTEM SECURE | ALL PORTS CLOSED ]"}</p>
       </footer>
     </div>
